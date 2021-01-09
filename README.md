@@ -4,7 +4,7 @@
 - My name is Derek Wang, and I am third-year Statistics major at UCLA. I am pursuing a career related to data science and research, and am interested in music, art, and fashion.
 
 
-### DH140 Course Description:
+### DGTHUM 140 Course Description:
 - Introduction to coding, with a focus on Python. 
 - The study of basic structural elements such as lists, if statements, dictionaries, loops, functions, and classes
 - Consideration of how to apply these concepts to research in humanities and social sciences, and project-based learning.
