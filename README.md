@@ -1,6 +1,7 @@
 # Welcome to my DH140 Repository!
 
-### My name is Derek Wang, and I am third-year Statistics major at UCLA.
+### Profile
+- My name is Derek Wang, and I am third-year Statistics major at UCLA. I am pursuing a career related to data science and research, and am interested in music, art, and fashion.
 
 
 ### DH140 Course Description:
