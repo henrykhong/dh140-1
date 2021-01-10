@@ -16,6 +16,8 @@
 - How music taste is constantly evolving, geographically and temporally in the U.S.
 - How social media platforms (e.g. TikTok, Twitter, Instagram) may impact mental health.
 - How social media algorithms (e.g. TikTok, Twitter, Instagram) can be racist/biased. 
+- Which hospital locations are reaching/sustaining maximum ICU capacity?
+
 
 ### Objectives:
 - My objectives in this course are to become adept at Python and GIS Mapping, and to create a substantial project to show and impress future employers. I hope to one day incorporate my data science skills into research at UCLA.
